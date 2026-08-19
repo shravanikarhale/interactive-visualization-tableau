@@ -1,6 +1,6 @@
 # INTERACTIVE VISUALIZATION
 
-## Task 03 – HR Employee Attrition Dashboard
+## HR Employee Attrition Dashboard
 
 This task focuses on creating an interactive dashboard using **Tableau** to analyze the **HR Employee Attrition** dataset. The dashboard provides meaningful insights into employee attrition by visualizing key HR metrics and enabling interactive filtering for better decision-making.
 
@@ -62,7 +62,4 @@ The dataset includes:
 - Monthly income and job satisfaction provide useful insights into employee retention.
 - Interactive filters allow users to explore attrition patterns across different employee groups.
 
-
-**Shravani Karhale**
-
-Computer Engineering Student | 
+<img width="1500" height="1200" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0f5a998b-ebee-4155-88af-5314bba804ea" />
